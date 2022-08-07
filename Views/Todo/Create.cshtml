@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "Create Todo";
+}
+@model TodoModel;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Todo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/nareshtodo.styles.css" asp-append-version="true" />
+     <style> 
+         h1 {
+        text-align: center;
+        border-style:solid;
+        background-color:darkred;
+    }
+    </style>
+</head>
+
+<h1>ADD ToDo</h1>
+<div class="row">
+    <div class="col-6">
+        <div class="card">
+
+            <div class="card-body">
+                <form asp-controller="Todo" asp-action="CreateTodo" method="post">
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Todo Number
+                        </label>
+                        <input asp-for="Id" type="number" class="form-control" min="0" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Todo Name
+                        </label>
+                        <input asp-for="Name" type="text" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary btn-block">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>

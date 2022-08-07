@@ -1,0 +1,44 @@
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.csproj.AssemblyReference.cache
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.AssemblyInfoInputs.cache
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.AssemblyInfo.cs
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.csproj.CoreCompileInputs.cache
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.MvcApplicationPartsAssemblyInfo.cache
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.RazorAssemblyInfo.cache
+/Users/vamsikrishna/Downloads/nareshtodo-master/obj/Debug/net6.0/nareshtodo.RazorAssemblyInfo.cs
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/appsettings.Development.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/appsettings.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo.staticwebassets.runtime.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo.deps.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo.runtimeconfig.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/nareshtodo.pdb
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Humanizer.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/MySqlConnector.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.csproj.AssemblyReference.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.AssemblyInfoInputs.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.AssemblyInfo.cs
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.csproj.CoreCompileInputs.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.MvcApplicationPartsAssemblyInfo.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.RazorAssemblyInfo.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.RazorAssemblyInfo.cs
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/scopedcss/bundle/nareshtodo.styles.css
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/scopedcss/projectbundle/nareshtodo.bundle.scp.css
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.csproj.CopyComplete
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/refint/nareshtodo.dll
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.pdb
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/nareshtodo.genruntimeconfig.cache
+/Users/aman/Documents/Projects/Extra Projects/NareshTodo/nareshtodo/obj/Debug/net6.0/ref/nareshtodo.dll

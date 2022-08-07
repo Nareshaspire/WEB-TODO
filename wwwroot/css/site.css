@@ -1,0 +1,36 @@
+hëader {
+    font-size: 14px;
+    background-color: chartreuse;
+}
+
+html {
+  font-size: 14px;
+  background-color:cornflowerblue;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+button {
+    background-color: #ffc;
+}
+.card {
+    background-color: #ffc3;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color:lightcoral;
+  border-style:solid;
+  border-radius:5px;
+}
+footer{
+    background-color:#ddd;
+}
